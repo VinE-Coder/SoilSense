@@ -1,0 +1,60 @@
+Bare Soil Compacted Dry Yellow Soil
+Bare Soil Degraded Dry Laterite Soil
+Bare Soil Degraded Dry Laterite Soil Stones Present
+Bare Soil Degraded Dry Yellow Soil
+Bare Soil Dry Laterite Soil Loose
+Bare Soil Dry Laterite Soil Low-Carbon Stones Present soil
+Bare Soil Dry Laterite Soil Pale
+Bare Soil Dry Loamy Soil Low-Carbon Pale
+Bare Soil Dry Loose Yellow Soil
+Bare Soil Dry Stones Present Yellow Soil
+Cinder Soil Dark High Carbon Mulched Organic-Rich
+Cinder Soil Dark High Carbon Organic-Rich
+Cinder Soil Degraded Loose Low-Carbon
+Cinder Soil Degraded Low-Carbon Organic-Rich
+Cinder Soil Degraded Low-Carbon Pale Stones Present
+Cinder Soil Degraded Low-Carbon Stones Present
+Cinder Soil High Carbon Moist Mulched Organic-Rich
+Cinder Soil Low-Carbon Stones Present
+Cinder Soil Organic-Rich Stones Present
+Compacted Dry Laterite Soil Pale
+Compacted Dry Low-Carbon Peat Soil
+Compacted Dry Low-Carbon Yellow Soil
+Compacted Dry Pale Yellow Soil
+Cracked Degraded Low-Carbon Yellow Soil
+Cracked Degraded Pale Yellow Soil
+Cracked Dry Laterite Soil Low-Carbon
+Cracked Dry Laterite Soil Pale
+Cracked Dry Loose Yellow Soil
+Dark Healthy Moist Peat Soil
+Dark Healthy Mulched Peat Soil
+Dark Healthy Organic-Rich Peat Soil
+Dark High Carbon Loamy Soil Moist
+Dark High Carbon Loamy Soil Moist Organic-Rich
+Dark High Carbon Loamy Soil Organic-Rich
+Dark High Carbon Moist Organic-Rich Peat Soil
+Dark High Carbon Organic-Rich Peat Soil
+Dark Loose Plant Matter Yellow Soil
+Dark Moist Organic-Rich Peat Soil
+Dark Moist Peat Soil Plant Matter
+Degraded Dry Laterite Soil Pale
+Degraded Dry Laterite Soil Pale Stones Present
+Degraded Dry Loose Peat Soil
+Degraded Dry Pale Yellow Soil
+Dry Laterite Soil Loose Pale
+Dry Laterite Soil Low-Carbon Pale
+Dry Loamy Soil Low-Carbon Pale
+Dry Loose Pale Peat Soil
+Dry Loose Pale Yellow Soil
+Dry Pale Stones Present Yellow Soil
+Dry Pale Yellow Soil
+Healthy Laterite Soil Moist Plant Matter
+Healthy Moist Organic-Rich Peat Soil
+Healthy Organic-Rich Peat Soil Plant Matter
+High Carbon Loamy Soil Moist Organic-Rich
+High Carbon Loamy Soil Moist Organic-Rich Plant Matter
+High Carbon Moist Mulched Organic-Rich Peat Soil
+Loamy Soil Low-Carbon Moist
+Low-Carbon Mossy Pale Yellow Soil
+Moist Mulched Organic-Rich Peat Soil
+Moist Mulched Peat Soil Plant Matter
