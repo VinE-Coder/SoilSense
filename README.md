@@ -2,4 +2,4 @@ SoilSense is a machine learning application developed to determine soil types an
 
 The main program runs identification through a CNN (convolutional neural network), so users have to upload an image that will be processed. This runs through the model, and the ouput is translated into insights for the user. 
 
-The majority of this code was developed at once in the past and moved into GitHub recently at one time. 
+The majority of this code was developed in the past and moved into GitHub recently at one time. 
